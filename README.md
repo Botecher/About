@@ -28,6 +28,6 @@
 
 ### :telephone_receiver: Контакты:
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;
-  <img src="https://cdn-icons-png.flaticon.com/512/2165/2165378.png" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;
+  - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;
+  - <img src="https://cdn-icons-png.flaticon.com/512/2165/2165378.png" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;
   
