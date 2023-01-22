@@ -26,4 +26,6 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
 
-###  Контакты: <a href="https://t.me/ISmakR"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;</a>
+###  Контакты: 
+
+<a href="https://t.me/ISmakR"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;</a>
