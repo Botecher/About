@@ -1,6 +1,10 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif)" width="100"/>
+</div>
+
 <div  align="center">
   
-# Привет
+# Привет :raised_hand_with_fingers_splayed:
   
 </div>
   
