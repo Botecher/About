@@ -1,5 +1,7 @@
+<div  align="center">
 # Привет
-
+</div>
+  
 ---
 
 ### :man_technologist: О себе : Я Аналитик Данных.
