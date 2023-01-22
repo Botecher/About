@@ -29,5 +29,3 @@
 ### :telephone_receiver: Контакты:
 
 <a href="https://t.me/ISmakR"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/600px-Telegram_Messenger.png" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;</a>
-<a href="rusismaktam@yahoo.com"><img src="https://cdn-icons-png.flaticon.com/512/2165/2165378.png" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;</a>
-  
