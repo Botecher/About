@@ -1,5 +1,5 @@
 <div align="center">
-  <big font-size='30'>Hello there</big>
+  <font size='30'><big>Hello there</big></font>
 </div>
 
 ---
