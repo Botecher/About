@@ -1,6 +1,4 @@
-
-h3=. Hello there
-
+# Hello there
 
 ---
 
