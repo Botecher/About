@@ -28,4 +28,4 @@
 
 ### :telephone_receiver: Контакты:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/1200px-Telegram_2019_Logo.svg.png" title="Spring" alt="Spring" width="20" height="20"/>&nbsp;
