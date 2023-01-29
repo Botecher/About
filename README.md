@@ -26,7 +26,7 @@
 
  ### <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;Pandas
  ### <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;Python
- ### <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;SQL
+ ### <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;PostgreSQL
 
 ###  Контакты: 
 
