@@ -22,7 +22,7 @@
 
 ### :construction_worker_woman: Проекты
 
--  
+<a href="https://github.com/RItechh/project_data_analysis">Data Analysis</a>
 
 ---
 
